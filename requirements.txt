@@ -1,0 +1,6 @@
+fastapi
+tensorflow
+tensorflow_text
+uvicorn
+google-cloud-storage
+tensorflow_hub

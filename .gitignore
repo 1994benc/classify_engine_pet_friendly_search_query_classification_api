@@ -1,0 +1,5 @@
+app/
+app/pets_friendly_property_query_classification_bert/
+.idea/
+__pycache__/
+pets_friendly_property_query_classification.h5
